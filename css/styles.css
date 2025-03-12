@@ -62,13 +62,13 @@ p {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 .header-part-logo {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .solutions {
   background-color: #2e2f42;
@@ -100,11 +100,11 @@ p {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 .footer-part-logo {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
