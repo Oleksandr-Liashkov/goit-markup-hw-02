@@ -131,6 +131,9 @@ p {
 .team-image {
   background-color: #ffffff;
 }
+.portfolio-header {
+  line-height: 1.2;
+}
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
