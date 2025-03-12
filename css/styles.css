@@ -52,6 +52,9 @@ p {
 .navigation-item {
   color: #2e2f42;
 }
+.address {
+  font-style: normal;
+}
 .navigation-item:hover,
 .navigation-item:focus {
   color: #404bbf;
