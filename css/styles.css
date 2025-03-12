@@ -38,7 +38,7 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.page-header {
+.header {
   background-color: #fff;
 }
 
@@ -57,7 +57,7 @@ p {
   color: #404bbf;
 }
 
-.adress-item {
+.address-item {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -85,7 +85,10 @@ p {
 .solutions {
   background-color: #2e2f42;
 }
-
+.page-header {
+  line-height: 1.07;
+  text-align: center;
+}
 .button {
   font-weight: 500;
   font-size: 16px;
@@ -94,12 +97,21 @@ p {
   color: #fff;
   background-color: #4d5ae5;
 }
-
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
 .team {
   background-color: #f4f4fd;
 }
 .page-footer {
   background-color: #2e2f42;
+}
+.section-header {
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
 }
 .footer-text {
   font-weight: 400;
@@ -107,6 +119,17 @@ p {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.team-text {
+  font-size: 16px;
+}
+.portfolio-header {
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+}
+.team-image {
+  background-color: #ffffff;
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
